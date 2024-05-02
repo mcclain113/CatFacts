@@ -1036,3 +1036,4 @@ C:\Users\051686\RiderProjects\CatFacts\CatFacts\obj\Debug\net8.0-android\stamp\_
 C:\Users\051686\RiderProjects\CatFacts\CatFacts\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\051686\RiderProjects\CatFacts\CatFacts\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\051686\RiderProjects\CatFacts\CatFacts\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+C:\Users\051686\RiderProjects\CatFacts\CatFacts\obj\Debug\net8.0-android\CatFacts.sourcelink.json
