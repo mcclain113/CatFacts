@@ -1,0 +1,1 @@
+C:\Users\051686\RiderProjects\CatFacts\CatFacts\CatFacts.csproj;x64
